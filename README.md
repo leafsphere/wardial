@@ -1,7 +1,7 @@
 # Wardial
 
-![](https://github.com/leafsphere/wardial/workflows/task1/badge.svg)
-![](https://github.com/leafsphere/wardial/workflows/task2/badge.svg)
+[![](https://github.com/leafsphere/wardial/workflows/task1/badge.svg)](https://github.com/leafsphere/wardial/actions?query=workflow%3Atests)
+[![](https://github.com/leafsphere/wardial/workflows/task2/badge.svg)](https://github.com/leafsphere/wardial/actions?query=workflow%3Atests)
 
 
 **Learning Objectives:**
